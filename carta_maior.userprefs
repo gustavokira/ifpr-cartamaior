@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{882744CF-38E3-46C7-9155-CAEB4A28FA30}|Default">
+  <MonoDevelop.Ide.ItemProperties.carta__maior PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="carta_maior/App.cs">
+    <Files>
+      <File FileName="carta_maior/Jogador.cs" Line="18" Column="4" />
+      <File FileName="carta_maior/Carta.cs" Line="18" Column="2" />
+      <File FileName="carta_maior/App.cs" Line="19" Column="1" />
+      <File FileName="carta_maior/Jogo.cs" Line="57" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/gustavo/Projects/carta_maior/carta_maior/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gustavo/Projects/carta_maior/carta_maior/bin/Debug/carta_maior.exe.mdb
+/Users/gustavo/Projects/carta_maior/carta_maior/bin/Debug/carta_maior.exe
+/Users/gustavo/Projects/carta_maior/carta_maior/obj/x86/Debug/carta_maior.exe
+/Users/gustavo/Projects/carta_maior/carta_maior/obj/x86/Debug/carta_maior.exe.mdb

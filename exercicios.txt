@@ -1,0 +1,11 @@
+1) Mude o valor das cartas para 7 e 10.
+2) Mude a forma como as cartas são distribuidas para os jogadores.
+3) Crie todas as cartas de 1 até 10.
+4) Mude a ordem das cartas no jogo.
+5) crie naipes para as cartas.
+6) Mude as cartas para que sejam as de um baralho completo (podem ser dois naipes).
+7) crie um método no qual sejam criadas todas as cartas.
+8) Faça o jogo ter 5 rodadas.
+9) Faça o jogo ser "melhor de 5".
+10) Crie um método para embaralhar as cartas.
+11) Implemente o método de embaralhar cartas.
